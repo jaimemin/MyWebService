@@ -1,3 +1,13 @@
 # Project exclude paths
 /.gradle/
 .idea
+
+build/classes/
+build/generated/
+build/reports/
+build/resources/main/application.properties
+build/test-results/
+build/tmp/
+src/main/resources/application-oauth.properties
+src/main/resources/application.properties
+src/test/resources/
